@@ -1,16 +1,15 @@
-### Hi there 👋
+<br>
+<img src="/Sem título.png" alt="My Panel">
+<br>
 
-<!--
-**matakayama/matakayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Marina Takayama.
 
-Here are some ideas to get you started:
+- 🧝‍♀️ I',m mom, woman and a studying Data Analyst. And I love to be all these. 💚
+- 👀 I'm interested in learn more and more about Python, Data Analytics, Data Science,
+      Data Visualization, Data Engineering. All about data, because I love learn and work with data.
+- 🌱 I’m currently learning Python🐍 SQL and Power BI 📊. If you want to talk about this subject, send me a message by email ✉️.
+- 💞 I’m looking to collaborate on sharing my scripts and new knowledges, and I love learn and I am available 
+      for everyone who wants to exchange knowledge. 
+- 📫 How to reach me: <ma_moniz@hotmail.com>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😸 Happiness ☮️Peace 💕 Love 🍀 Hope ✝️ Faith
